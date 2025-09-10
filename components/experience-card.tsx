@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
-import { Github, Youtube, ExternalLink } from "lucide-react";
+import { Github, Youtube} from "lucide-react";
 import { Reveal } from "./reveal";
 interface ExperienceCardProps {
     company: string;

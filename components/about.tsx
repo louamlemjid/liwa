@@ -39,8 +39,8 @@ export default function About() {
             <Reveal><h2 className="text-2xl font-semibold mt-8 mb-4 text-foreground">Empowering Tunisia through Technology</h2></Reveal>
             <Reveal>
             <p className="mb-6 sm:text-base lg:text-2xl text-muted-foreground">
-            As a seasoned full stack engineer with a unique blend of experiences, I'm driven by a passion to harness
-            technology for real-world impact. Growing up in Tunisia, I've always been fascinated by the human experience –
+            As a seasoned full stack engineer with a unique blend of experiences, I&apos;m driven by a passion to harness
+            technology for real-world impact. Growing up in Tunisia, I&apos;ve always been fascinated by the human experience –
             from the entrepreneurial spirit of family-run businesses to the intricate web of global connections forged while
             working abroad.
             </p>
