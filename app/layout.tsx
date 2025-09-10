@@ -21,11 +21,11 @@ export const metadata :Metadata= {
     title: "Liwa Lemjid - Devops Engineer",
     description:
       "Explore the work of Liwa Lemjid, an expert in Devops.",
-    url: "https://louam-lemjid.vercel.app", // 👉 replace with your real domain
+    url: "https://liwa-rho.vercel.app/", // 👉 replace with your real domain
     siteName: "Liwa Lemjid",
     images: [
       {
-        url: "https://louam-lemjid.vercel.app/profile.png", // must resolve to /public/profile.png
+        url: "https://liwa-rho.vercel.app/profile.png", // must resolve to /public/profile.png
         width: 1200,
         height: 630,
         alt: "Liwa Lemjid Profile",
@@ -44,7 +44,7 @@ export const metadata :Metadata= {
       "@type": "Person",
       name: "Liwa Lemjid",
       jobTitle: "Devops Engineer",
-      url: "https://yourdomain.com", // 👉 replace with real domain
+      url: "https://liwa-rho.vercel.app/", // 👉 replace with real domain
       sameAs: [
         "https://www.linkedin.com/in/louam-lemjid-466435206/",
         "https://github.com/louamlemjid",
