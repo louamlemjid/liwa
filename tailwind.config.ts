@@ -11,8 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "var(--primary)",   // main blue → highlight
+        secondary:"var(--secondary)", // lighter accent
+        highlight:"var(--highlight)", // optional neutral highlight color
       },
     },
+
   },
   plugins: [],
 };
