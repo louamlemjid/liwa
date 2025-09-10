@@ -68,7 +68,7 @@ return (
           />
           </div></Reveal>
     <Reveal><h6 className="text-lg text-muted-foreground mb-12">
-    A collection of projects I've worked on.
+    A collection of projects I&apos;ve worked on.
     </h6></Reveal>
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8">
       {experiences.reverse().map((experience, index) => (

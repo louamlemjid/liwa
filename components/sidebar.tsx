@@ -1,13 +1,11 @@
 "use client";
-import Link from "next/link";
+
 import { useState, useEffect } from "react";
-import { Button } from "@/components/ui/Button";
-import { Braces } from "lucide-react";
+
 import { motion } from "framer-motion";
 // import { setTimeout } from "timers/promises";
 
 export function AppSidebar() {
-  const [collapsed, setCollapsed] = useState(true);
   const [activeSection, setActiveSection] = useState("");
   const [profileSwtich, setProfileSwitch] = useState(true);
   // Function to update the active section based on scroll position
@@ -47,7 +45,7 @@ export function AppSidebar() {
         expanded: { width: "10rem" },
         collapsed: { width: "5rem" },
       }}
-      animate={collapsed ? "collapsed" : "expanded"}
+      animate={"collapsed"}
       transition={{ duration: 0.6 }}
     >
       {/* Toggle Button */}

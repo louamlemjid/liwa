@@ -23,14 +23,14 @@ export default function Hero() {
         <h1
         className="text-3xl md:text-6xl font-bold sm:pb-5 md:py-6 pb-4"
       >
-       Hey, I'm Liwa<span className="text-highlight text-6xl">.</span>
+       Hey, I&apos;m Liwa<span className="text-highlight text-6xl">.</span>
       </h1>
       </Reveal>
       <Reveal>
         <p
           className="text-foreground m-auto text-xl w-80 md:w-96"
         >
-          I've spent the last 2 years building and scaling software aiming for real-world application in Tunisia to solve major problems including :
+          I&apos;ve spent the last 2 years building and scaling software aiming for real-world application in Tunisia to solve major problems including :
           Transport, Home-Automation and Agriculture. 
           
         </p>
