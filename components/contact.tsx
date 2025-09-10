@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/Button";
-import { Linkedin, Twitter, Mail } from "lucide-react";
+import { Linkedin,  Mail } from "lucide-react";
 import Link from "next/link";
 import { Reveal } from "./reveal";
 
@@ -24,7 +24,7 @@ export function Contact() {
         </Link> </p>
         </Reveal>
         <p> You can also find me on LinkedIn 
-          if that's more your speed.
+          if that&apos;s more your speed.
         </p>
         
         <Reveal><div className=" space-x-4">
